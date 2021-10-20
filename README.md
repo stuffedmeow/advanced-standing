@@ -1,5 +1,5 @@
 # advanced-standing
- My portfolio website created for advanced standing.
+ My [portfolio website](https://students.purchase.edu/julie.zen/advancedstanding) created for advanced standing.
  
  This is published with more of a goal to be shared rather than to be remixed.
 ## License
